@@ -48,5 +48,5 @@
         "chainid": "56",
         "apiurl": "https://api.bscscan.com/api?module=contract&action=getsourcecode&address="
     }
-
+ 
 ]
